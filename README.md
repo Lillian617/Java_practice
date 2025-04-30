@@ -1,4 +1,4 @@
-# Java Practice
+# 🎈 Java Practice
 This repository contains a collection of small Java console-based projects created as part of my learning process.  
 
 ## 🗂️ Included Projects
