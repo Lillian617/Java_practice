@@ -1,8 +1,8 @@
-# 🎈 Java Practice
+# 🎈Java Practice
 This repository contains a collection of small Java console-based projects created as part of my learning process.  
 
-## 🗂️ Included Projects
-### 🔢 Bulls and cows(1A2B)-Number guessing game
+## 🗂️Included Projects
+### 🔢Bulls and cows(1A2B)-Number guessing game
 - Classic logic game where the user interacts in the terminal.
 - Generates a 4-digit number with non-repeating digits.
 - After each guess, the game will provide feedback in the form of:
